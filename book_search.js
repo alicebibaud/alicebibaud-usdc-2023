@@ -23,7 +23,7 @@
      * return the appropriate object here. */
 
     var result = {
-        "SearchTerm": "",
+        "SearchTerm": searchTerm,
         "Results": []
     };
     
